@@ -17,7 +17,7 @@ function Login() {
   //logging in 
   const onSubmit = async (e) => {
     e.preventDefault()
-    router.push('/dashboard/analytics')
+    router.push('/analytics')
     toast.success("Welcome !")
   }
 

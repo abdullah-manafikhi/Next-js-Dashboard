@@ -46,14 +46,14 @@ function AnalyticsGraph({ graphData }) {
         datasets: [
             {
                 fill: true,
-                label: 'zahabico.com',
+                label: 'manafikhi.com',
                 data: graphData.zahabico,
                 borderColor: 'rgba(141,208,186, 0.6)',
                 backgroundColor: 'rgba(141,208,186, 0)',
             },
             {
                 fill: true,
-                label: 'www.zahabico.com',
+                label: 'demo.manafikhi.com',
                 data: graphData.www,
                 borderColor: 'rgba(231,176,8,0.6)',
                 backgroundColor: 'rgba(231,176,8,0)',
