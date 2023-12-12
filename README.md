@@ -18,34 +18,32 @@ To install the dashboard, follow these steps:
 
 1. Clone the repository:
 [bash]
-git clone https://github.com/YourUsername/your-dashboard-template.git
-[/bash]
+git clone https://github.com/abdullah-manafikhi/Next-js-Dashboard.git
 
 2. Install the dependencies:
-[bash]
-cd your-dashboard-template
+cd Next-js-Dashboard
 npm install
-[/bash]
 
 3. Run the development server:
-[bash]
 npm run dev
-[/bash]
-
 The dashboard will be served on http://localhost:3000.
 
-## Customizing
+## Pages
+### 1.Analytics
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analyitcs-1.png)
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analyitcs-2.png)
 
-To customize the dashboard, you can edit the following files:
+### 2.Products
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-products.png)
 
-* `tailwind.config.js`: This file controls the Tailwind CSS styling.
-* `pages/analytics.js`: This file contains the code for the Analytics page.
-* `pages/products.js`: This file contains the code for the Products page.
-* `pages/addProduct.js`: This file contains the code for the Add Product page.
-* `pages/uploadManangeImages.js`: This file contains the code for the Upload/Manage Images page.
-* `pages/generalSettings.js`: This file contains the code for the General Settings page.
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-add.png)
 
-You can also add your own pages and components by creating new files in the `pages` directory.
+
+### 3.Images Management Page
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-images.png)
+
+### 4.General Settings Page
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-genral.png)
 
 ## Contributing
 
