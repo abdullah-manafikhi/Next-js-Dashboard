@@ -2,6 +2,8 @@
 
 This is an open-source dashboard template built with Next.js, Tailwind CSS, and DaisyUI. It features five pages: Analytics, Products, Add Product, Upload/Manage Images, and General Settings. The dashboard is fully responsive and can be used on any device.
 
+[test image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-add.png)
+
 ## Features
 
 * **Fully responsive design:** The dashboard can be used on any screen size, from desktops to mobile devices.
