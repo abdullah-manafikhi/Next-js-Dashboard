@@ -18,25 +18,25 @@ npm run dev
 The dashboard will be served on http://localhost:3000.
 
 ## Pages
-## 1.Analytics
+  ### 1. Analytics
 Integratin charts and graphs from chart.js to demonstrate analytical data
 ![Analytics Oage Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analytics-1.png)
 
 
 ![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analytics-2.png)
 
-## 2. Products
+  ### 2. Products
 This page allows you to perform CRUD (create, read, update, delete) operations on products and control their visibility. 
 ![Product's Page Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-products.png)
 
 
 ![Product's Page Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-add.png)
 
-## 3. Images Management Page
+  ### 3. Images Management Page
 you can manage images by uploading, deleting, renaming, searching, and filtering them. 
 ![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-images.png)
 
-## 4. General Settings Page
+  ### 4. General Settings Page
 The first section on the page is dedicated to managing the slider. You can add a new slide, select its image, and provide a link in an intuitive manner. 
 In the password section, you can change your login password.
 ![General Settings Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-general.png)
