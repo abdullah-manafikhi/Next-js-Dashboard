@@ -19,7 +19,7 @@ The dashboard will be served on http://localhost:3000.
 
 ## Pages
   ### 1. Analytics
-Integratin charts and graphs from chart.js to demonstrate analytical data
+Integrating charts and graphs from chart.js to demonstrate analytical data
 ![Analytics Oage Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analytics-1.png)
 
 
