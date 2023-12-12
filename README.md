@@ -2,8 +2,6 @@
 
 This is an open-source dashboard template built with Next.js, Tailwind CSS, and DaisyUI. It features five pages: Analytics, Products, Add Product, Upload/Manage Images, and General Settings. The dashboard is fully responsive and can be used on any device.
 
-![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-products.png)
-
 ## Features
 
 * **Fully responsive design:** The dashboard can be used on any screen size, from desktops to mobile devices.
@@ -30,20 +28,20 @@ The dashboard will be served on http://localhost:3000.
 
 ## Pages
 ### 1.Analytics
-![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analyitcs-1.png)
-![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analyitcs-2.png)
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analytics-1.png)
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-analytics-2.png)
 
-### 2.Products
+### 2. Products
 ![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-products.png)
 
 ![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-add.png)
 
 
-### 3.Images Management Page
+### 3. Images Management Page
 ![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-images.png)
 
-### 4.General Settings Page
-![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-genral.png)
+### 4. General Settings Page
+![Product Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-general.png)
 
 ## Contributing
 
