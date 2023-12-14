@@ -43,7 +43,7 @@ In the password section, you can change your login password.
 
 ## Contributing
 
-Contributions are welcome! Please submit pull requests to the `main` branch.
+Contributions are welcome! For adding new features, Please open a [new issue](https://github.com/abdullah-manafikhi/Next-js-Dashboard/issues/new)
 
 ## License
 
