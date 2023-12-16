@@ -20,7 +20,7 @@ The dashboard will be served on http://localhost:3000.
 ## Pages
   ### 1. Analytics
 Integrating charts and graphs from chart.js to demonstrate analytical data
-![Analytics Oage Image](./public/demo-dashboard-analytics-1.png)
+![Analytics Oage Image](public/demo-dashboard-analytics-1.png)
 
 
 ![Product Image](public/demo-dashboard-analytics-2.png)
@@ -30,7 +30,7 @@ This page allows you to perform CRUD (create, read, update, delete) operations o
 ![Product's Page Image](public/demo-dashboard-products.png)
 
 
-![Product's Page Image](public/api/v1/assets/demo-dashboard-add.png)
+![Product's Page Image](public/demo-dashboard-add.png)
 
   ### 3. Images Management Page
 you can manage images by uploading, deleting, renaming, searching, and filtering them. 
