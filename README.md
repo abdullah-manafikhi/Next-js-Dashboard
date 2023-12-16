@@ -23,7 +23,7 @@ Integrating charts and graphs from chart.js to demonstrate analytical data
 ![Analytics Oage Image](./public/demo-dashboard-analytics-1.png)
 
 
-![Product Image](https://manafikhi.com/api/v1/assets/demo-dashboard-analytics-2.png)
+![Product Image](public/demo-dashboard-analytics-2.png)
 
   ### 2. Products
 This page allows you to perform CRUD (create, read, update, delete) operations on products and control their visibility. 
