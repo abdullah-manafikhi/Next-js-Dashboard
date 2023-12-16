@@ -27,19 +27,19 @@ Integrating charts and graphs from chart.js to demonstrate analytical data
 
   ### 2. Products
 This page allows you to perform CRUD (create, read, update, delete) operations on products and control their visibility. 
-![Product's Page Image](https://manafikhi.com/api/v1/assets/demo-dashboard-products.png)
+![Product's Page Image](public/demo-dashboard-products.png)
 
 
-![Product's Page Image](https://abdullah.manafikhi.com/api/v1/assets/demo-dashboard-add.png)
+![Product's Page Image](public/api/v1/assets/demo-dashboard-add.png)
 
   ### 3. Images Management Page
 you can manage images by uploading, deleting, renaming, searching, and filtering them. 
-![Product Image](https://manafikhi.com/api/v1/assets/demo-dashboard-images.png)
+![Product Image](public/demo-dashboard-images.png)
 
   ### 4. General Settings Page
 The first section on the page is dedicated to managing the slider. You can add a new slide, select its image, and provide a link in an intuitive manner. 
 In the password section, you can change your login password.
-![General Settings Image](https://manafikhi.com/api/v1/assets/demo-dashboard-general.png)
+![General Settings Image](public/demo-dashboard-general.png)
 
 ## Contributing
 
