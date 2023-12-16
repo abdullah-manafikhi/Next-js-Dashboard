@@ -30,7 +30,7 @@ This page allows you to perform CRUD (create, read, update, delete) operations o
 ![Product's Page Image](public/demo-dashboard-products.png)
 
 
-![Product's Page Image](public/demo-dashboard-add.png)
+![Product's Add Page Image](public/demo-dashboard-add.png)
 
   ### 3. Images Management Page
 you can manage images by uploading, deleting, renaming, searching, and filtering them. 
