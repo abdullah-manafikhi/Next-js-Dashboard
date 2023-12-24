@@ -63,11 +63,11 @@ function YourProducts() {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [products, query.page, refresh])
 
-    const onBRANDChange = (e) => window.location.assign(`http://localhost:3000/products-panel?brand=${e.target.value}&family=${query.family}&page=${1}`)
+    const onBRANDChange = (e) => window.location.assign(`https://manafikhi.com/products-panel?brand=${e.target.value}&family=${query.family}&page=${1}`)
 
-    const onFAMILYChange = (e) => window.location.assign(`http://localhost:3000/products-panel?brand=${query.brand}&family=${e.target.value}&page=${1}`)
+    const onFAMILYChange = (e) => window.location.assign(`https://manafikhi.com/products-panel?brand=${query.brand}&family=${e.target.value}&page=${1}`)
 
-    const onPageChange = (e) => window.location.assign(`http://localhost:3000/products-panel?brand=${query.brand}&family=${query.family}&page=${Number(e.target.id)}`)
+    const onPageChange = (e) => window.location.assign(`https://manafikhi.com/products-panel?brand=${query.brand}&family=${query.family}&page=${Number(e.target.id)}`)
 
     const onDISPLAYChange = (e) => setDISPLAY(e.target.value)
 
